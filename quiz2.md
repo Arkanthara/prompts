@@ -29,6 +29,8 @@ Quizdown — GitHub : [https://github.com/parmsam/quarto-quizdown](https://githu
 title: "Titre du chapitre — Quiz"
 filters:
   - quizdown
+execute:
+  enabled: false
 ---
 ```
 
