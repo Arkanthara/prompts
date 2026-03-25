@@ -19,6 +19,7 @@ Quizdown — GitHub : [https://github.com/parmsam/quarto-quizdown](https://githu
 * Aucune syntaxe inventée
 * **Chaque question doit être dans son propre bloc quizdown séparé**
 * **Aucun emoji ou symbole** (ni dans les titres, ni dans les questions, ni dans les explications)
+* Respect strict des caractères spéciaux français (donc accents à conserver !)
 
 ---
 

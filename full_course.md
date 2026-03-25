@@ -16,6 +16,7 @@ Tu dois générer un document Quarto (.qmd) COMPLET destiné à un site web édu
   * les diagrammes
 * Sinon le rendu est cassé → inacceptable
 * N'utilise PAS de HTML sauf si absolument nécessaire
+* Respect strict des caractères spéciaux français (donc accents à conserver !)
 
 ---
 
@@ -83,11 +84,18 @@ Pour CHAQUE concept :
   * sous-sections
   * mise en évidence
 
-Utiliser :
+* Utiliser des callouts Quarto (`::: {.callout-...}`) avec titre
+  * Points importants → `important`/`warning` + titre (optionel)
+  * Intuition → `tip` + titre "Intuition"
+  * À retenir → `note` + titre "À retenir"
 
-* ⚠️ Points importants
-* 💡 Intuition
-* 🧠 À retenir
+Exemple tiré de la documentation quarto officielle:
+
+```qmd
+::: {.callout-tip title="Tip with Title"}
+This is a callout with a title.
+:::
+```
 
 ---
 

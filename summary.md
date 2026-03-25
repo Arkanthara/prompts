@@ -17,6 +17,7 @@ Tu dois générer une fiche de révision Quarto (.qmd) optimisée pour mémorisa
   * les tableaux
   * les blocs
 * N'utilise PAS de HTML sauf si absolument nécessaire
+* Respect strict des caractères spéciaux français (donc accents à conserver !)
 
 ---
 
