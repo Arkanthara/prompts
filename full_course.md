@@ -9,6 +9,7 @@ Tu dois générer un document Quarto (.qmd) COMPLET destiné à un site web édu
 ⚠️ CONTRAINTE CRITIQUE QUARTO :
 
 * Respecte STRICTEMENT la syntaxe Quarto valide.
+* Respecte STRICTEMENT la syntaxe pour les .callout quarto.
 * Laisse TOUJOURS une ligne vide AVANT et APRÈS :
 
   * les listes
