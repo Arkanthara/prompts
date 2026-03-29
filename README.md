@@ -9,6 +9,7 @@ Ce dépôt contient plusieurs prompts utiles pour générer des contenus Quarto.
 - [Full Course](full_course.md)
 - [Quiz](quiz2.md)
 - [Résumé](summary.md)
+- [Questions d'examen](cc_questions.md)
 
 ---
 
