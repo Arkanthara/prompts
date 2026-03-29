@@ -10,6 +10,8 @@ Ce dépôt contient plusieurs prompts utiles pour générer des contenus Quarto.
 - [Quiz](quiz2.md)
 - [Résumé](summary.md)
 - [Questions d'examen](cc_questions.md)
+- [Résumés questions d'examen](cc_summary.md)
+- [Quiz questions d'examen](cc_quiz.md)
 
 ---
 
